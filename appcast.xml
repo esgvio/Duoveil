@@ -1,8 +1,23 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Duoveil</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 12 Sep 2026 16:18:22 +0300</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Duoveil 1.0.0 — build 22</h2>
+<ul>
+<li>Improved recovery when the effect stops responding across screen-lock transitions.</li>
+<li>Automatically reconnects display refresh when macOS stops delivering frames, keeping lid sensing responsive.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/esgvio/Duoveil/releases/download/v1.0.0-build.22/Duoveil-1.0.0-22-arm64.zip" length="3645252" type="application/octet-stream" sparkle:edSignature="PtBMzq8ekhCqoiWNjp8DNGOJVTxLwf8Lv3C2NA/3gC2K9EcrAdXtp1d8pLBzkctiBh+rFOFAkFLslFbJmTtvAw=="/>
+        </item>
         <item>
             <title>1.0.0</title>
             <pubDate>Sat, 12 Sep 2026 15:31:08 +0300</pubDate>
@@ -18,10 +33,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <li>Fixed the installer background, arrow and installation hint in Finder.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/esgvio/Duoveil/releases/download/v1.0.0-build.21/Duoveil-1.0.0-21-arm64.zip" length="3642526" type="application/octet-stream" sparkle:edSignature="/lDUYD0SfHbRt2UX5ZQJj0LP/LkSPLAil7BGRIPF3TJAT36DIoH+jRqvga5tX3YUXgXhnngdUmvP7GAX7bvqCA=="></enclosure>
+            <enclosure url="https://github.com/esgvio/Duoveil/releases/download/v1.0.0-build.21/Duoveil-1.0.0-21-arm64.zip" length="3642526" type="application/octet-stream" sparkle:edSignature="/lDUYD0SfHbRt2UX5ZQJj0LP/LkSPLAil7BGRIPF3TJAT36DIoH+jRqvga5tX3YUXgXhnngdUmvP7GAX7bvqCA=="/>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ppYqi8+D7oCeTZ3B4aW6Fs39JUER10MD8VDRZtvOl8MGu3xfAznYEnxz0dqZIEMX+fXpjf28jEBg0tm24PHwCQ==
-length: 1522
+edSignature: 868PZT0bLjFBeufULEk9TVHntwvp3XQc2JKiOTOgye67Py7XS32yAriCaF1LcBtpDGgNIzzSzuFn79UYsj6bBw==
+length: 2515
 -->

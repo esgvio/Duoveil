@@ -9,10 +9,11 @@ A little magic for your MacBook. Your desktop bends and softly blurs as you clos
 ## Updates
 
 This repository hosts Duoveil’s signed update feed and release downloads.
-[Download Duoveil 1.0.0 (build 21)](https://github.com/esgvio/Duoveil/releases/download/v1.0.0-build.21/Duoveil-1.0.0-21-arm64.dmg)
+[Download Duoveil 1.0.0 (build 22)](https://github.com/esgvio/Duoveil/releases/download/v1.0.0-build.22/Duoveil-1.0.0-22-arm64.dmg)
 
-Build 21 adds a Dim slider, Reset for all four sliders, a Lock Screen toggle,
-and a fix for the installer background. Existing installations can update from
+Build 22 improves recovery across screen-lock transitions by reconnecting display
+refresh if macOS stops delivering frames. Dim, Reset and the Lock Screen toggle
+remain available. Existing installations can update from
 **Check for Updates…** in Duoveil’s menu.
 
 The Gumroad edition requires a license key to enable the effect.
