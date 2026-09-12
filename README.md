@@ -1,3 +1,5 @@
+<img src="assets/icon.png" alt="Duoveil app icon" width="128" height="128">
+
 # Duoveil
 
 A little magic for your MacBook. Your desktop bends and softly blurs as you close the lid.
