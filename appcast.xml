@@ -19,40 +19,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/esgvio/Duoveil/releases/download/v1.0.0-build.23/Duoveil-1.0.0-23-arm64.zip" length="3689939" type="application/octet-stream" sparkle:edSignature="msxrr+V1QQY85WLJORwkNuym7D55y7A8LUaaesalBu0AZ9FIPJRmWCTzYnyVI9MSw5zdRVtDMhz7reE8V+BOBw=="/>
         </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 12 Sep 2026 16:18:22 +0300</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Duoveil 1.0.0 — build 22</h2>
-<ul>
-<li>Improved recovery when the effect stops responding across screen-lock transitions.</li>
-<li>Automatically reconnects display refresh when macOS stops delivering frames, keeping lid sensing responsive.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/esgvio/Duoveil/releases/download/v1.0.0-build.22/Duoveil-1.0.0-22-arm64.zip" length="3645252" type="application/octet-stream" sparkle:edSignature="PtBMzq8ekhCqoiWNjp8DNGOJVTxLwf8Lv3C2NA/3gC2K9EcrAdXtp1d8pLBzkctiBh+rFOFAkFLslFbJmTtvAw=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 12 Sep 2026 15:31:08 +0300</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Duoveil 1.0.0 — build 21</h2>
-<ul>
-<li>Adjust fold darkening with the new Dim slider.</li>
-<li>Restore Angle, Blur, Frost and Dim with one Reset command.</li>
-<li>Turn the effect on or off on the Lock Screen, independently of desktop use.</li>
-<li>Fixed the installer background, arrow and installation hint in Finder.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/esgvio/Duoveil/releases/download/v1.0.0-build.21/Duoveil-1.0.0-21-arm64.zip" length="3642526" type="application/octet-stream" sparkle:edSignature="/lDUYD0SfHbRt2UX5ZQJj0LP/LkSPLAil7BGRIPF3TJAT36DIoH+jRqvga5tX3YUXgXhnngdUmvP7GAX7bvqCA=="/>
-        </item>
+
+
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 84fqs3vbXULfRPm9jmBVha6Q5EKQkgA60wm9uKabGx1NC4Y1Y2bIykgxRZSLZCxsRETbF0SB75IcEpBgSBn9BQ==
-length: 3698
+edSignature: VwflJsM+VTJ2UPVGpi4ufzK0GrgC/IUq9zpoiZM94Rx5CRnuSvnJZQ6JgjGww/I9OakL8/7dKYW7a8Y8MaYvAA==
+length: 1613
 -->
