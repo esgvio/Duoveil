@@ -4,6 +4,8 @@
 
 A little magic for your MacBook. Your desktop bends and softly blurs as you close the lid.
 
+Duoveil is inspired by the folding animation on Apple's [iPhone Duo](https://www.apple.com/iphone-duo/).
+
 [Duoveil on Gumroad](https://7517229897335.gumroad.com/l/duoveil)
 
 ## Updates
